@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D40A74-74B2-46CD-96CD-19A354382C90}|API\\API.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\api\\controllers\\moviereviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D40A74-74B2-46CD-96CD-19A354382C90}|API\\API.csproj|solutionrelative:api\\controllers\\moviereviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D40A74-74B2-46CD-96CD-19A354382C90}|API\\API.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D40A74-74B2-46CD-96CD-19A354382C90}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1342A596-061C-4043-88A0-F69A16D8A543}|Bussiness\\Bussiness.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\bussiness\\moviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1342A596-061C-4043-88A0-F69A16D8A543}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\moviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F83C3E4-93B7-4D98-A713-343932F3CE59}|Data\\Data.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\data\\moviereviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F83C3E4-93B7-4D98-A713-343932F3CE59}|Data\\Data.csproj|solutionrelative:data\\moviereviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\models\\data\\moviereviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|solutionrelative:models\\data\\moviereviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACF927F-2295-42A1-91F8-E489B5FC8274}|DTOS\\DTOS.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\dtos\\moviereviewgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACF927F-2295-42A1-91F8-E489B5FC8274}|DTOS\\DTOS.csproj|solutionrelative:dtos\\moviereviewgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9C7BD1-68B0-4888-AAC7-B66E727A16A7}|IBussiness\\IBussiness.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\ibussiness\\imoviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9C7BD1-68B0-4888-AAC7-B66E727A16A7}|IBussiness\\IBussiness.csproj|solutionrelative:ibussiness\\imoviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64909DBF-22AF-45CA-8FEB-0180D9E68322}|IData\\IData.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\idata\\imoviereviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64909DBF-22AF-45CA-8FEB-0180D9E68322}|IData\\IData.csproj|solutionrelative:idata\\imoviereviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\models\\dbmodels\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|solutionrelative:models\\dbmodels\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75B56D-65B9-4663-BF19-F590DB8AD54C}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACF927F-2295-42A1-91F8-E489B5FC8274}|DTOS\\DTOS.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACF927F-2295-42A1-91F8-E489B5FC8274}|DTOS\\DTOS.csproj|solutionrelative:dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64909DBF-22AF-45CA-8FEB-0180D9E68322}|IData\\IData.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\idata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64909DBF-22AF-45CA-8FEB-0180D9E68322}|IData\\IData.csproj|solutionrelative:idata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9C7BD1-68B0-4888-AAC7-B66E727A16A7}|IBussiness\\IBussiness.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\ibussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9C7BD1-68B0-4888-AAC7-B66E727A16A7}|IBussiness\\IBussiness.csproj|solutionrelative:ibussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F83C3E4-93B7-4D98-A713-343932F3CE59}|Data\\Data.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F83C3E4-93B7-4D98-A713-343932F3CE59}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1342A596-061C-4043-88A0-F69A16D8A543}|Bussiness\\Bussiness.csproj|c:\\users\\rishad.achukatla\\desktop\\arcadix\\backend\\arcadix.backend\\bussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1342A596-061C-4043-88A0-F69A16D8A543}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\API\\Controllers\\MovieReviewController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\MovieReviewController.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\API\\Controllers\\MovieReviewController.cs",
+              "RelativeToolTip": "API\\Controllers\\MovieReviewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:02:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Data\\MovieReviewRepository.cs",
+              "RelativeDocumentMoniker": "Data\\MovieReviewRepository.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Data\\MovieReviewRepository.cs",
+              "RelativeToolTip": "Data\\MovieReviewRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAnwFoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:03:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:44:44.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Bussiness\\MovieReviewService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\MovieReviewService.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Bussiness\\MovieReviewService.cs",
+              "RelativeToolTip": "Bussiness\\MovieReviewService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAjwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:31:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieReviewContext.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\Data\\MovieReviewContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\MovieReviewContext.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\Data\\MovieReviewContext.cs",
+              "RelativeToolTip": "Models\\Data\\MovieReviewContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:57:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieReviewGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\DTOS\\MovieReviewGetDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\MovieReviewGetDTO.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\DTOS\\MovieReviewGetDTO.cs",
+              "RelativeToolTip": "DTOS\\MovieReviewGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:08:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IBussiness\\IMovieReviewService.cs",
+              "RelativeDocumentMoniker": "IBussiness\\IMovieReviewService.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IBussiness\\IMovieReviewService.cs",
+              "RelativeToolTip": "IBussiness\\IMovieReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:35:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IData\\IMovieReviewRepository.cs",
+              "RelativeDocumentMoniker": "IData\\IMovieReviewRepository.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IData\\IMovieReviewRepository.cs",
+              "RelativeToolTip": "IData\\IMovieReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:18:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\DbModels\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\DbModels\\Movie.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\DbModels\\Movie.cs",
+              "RelativeToolTip": "Models\\DbModels\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:54:16.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T18:42:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Models\\Class1.cs",
+              "RelativeToolTip": "Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:05:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\DTOS\\Class1.cs",
+              "RelativeDocumentMoniker": "DTOS\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\DTOS\\Class1.cs",
+              "RelativeToolTip": "DTOS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:05:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IData\\Class1.cs",
+              "RelativeDocumentMoniker": "IData\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IData\\Class1.cs",
+              "RelativeToolTip": "IData\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:03:56.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IBussiness\\Class1.cs",
+              "RelativeDocumentMoniker": "IBussiness\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\IBussiness\\Class1.cs",
+              "RelativeToolTip": "IBussiness\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:03:39.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:01:20.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Bussiness\\Class1.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Class1.cs",
+              "ToolTip": "C:\\Users\\rishad.achukatla\\Desktop\\Arcadix\\Backend\\Arcadix.Backend\\Bussiness\\Class1.cs",
+              "RelativeToolTip": "Bussiness\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:00:48.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

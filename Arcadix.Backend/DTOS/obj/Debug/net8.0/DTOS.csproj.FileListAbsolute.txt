@@ -1,0 +1,11 @@
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\bin\Debug\net8.0\DTOS.deps.json
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\bin\Debug\net8.0\DTOS.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\bin\Debug\net8.0\DTOS.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\DTOS.AssemblyInfoInputs.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\DTOS.AssemblyInfo.cs
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\DTOS.csproj.CoreCompileInputs.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\DTOS.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\refint\DTOS.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\DTOS.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\DTOS\obj\Debug\net8.0\ref\DTOS.dll

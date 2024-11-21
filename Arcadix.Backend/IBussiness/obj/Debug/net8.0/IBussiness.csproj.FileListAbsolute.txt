@@ -1,0 +1,15 @@
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\bin\Debug\net8.0\IBussiness.deps.json
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\bin\Debug\net8.0\IBussiness.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\bin\Debug\net8.0\IBussiness.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\bin\Debug\net8.0\DTOS.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\bin\Debug\net8.0\DTOS.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.csproj.AssemblyReference.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.AssemblyInfoInputs.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.AssemblyInfo.cs
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.csproj.CoreCompileInputs.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.csproj.Up2Date
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\refint\IBussiness.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\IBussiness.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IBussiness\obj\Debug\net8.0\ref\IBussiness.dll

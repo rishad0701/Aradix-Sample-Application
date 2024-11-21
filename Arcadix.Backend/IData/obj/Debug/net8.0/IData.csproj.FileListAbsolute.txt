@@ -1,0 +1,17 @@
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\IData.deps.json
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\IData.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\IData.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\DTOS.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\Models.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\DTOS.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\bin\Debug\net8.0\Models.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.csproj.AssemblyReference.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.AssemblyInfoInputs.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.AssemblyInfo.cs
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.csproj.CoreCompileInputs.cache
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.csproj.Up2Date
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\refint\IData.dll
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\IData.pdb
+C:\Users\rishad.achukatla\Desktop\Arcadix\Backend\Arcadix.Backend\IData\obj\Debug\net8.0\ref\IData.dll
